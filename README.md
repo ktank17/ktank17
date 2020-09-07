@@ -9,7 +9,7 @@ Graduate student at California State University, East Bay pursuing MS in Compute
 ### Technology domain I work on...
 Software Development | Software Engineering | Python Developement | Machine Learning | Artificial Intelligence
 
-[LinkedIn](https://www.linkedin.com/in/krishna-tank/) | [Twitter](https://twitter.com/krishi_17) | [Medium](https://medium.com/@krishtank17) | [Youtube Channel](https://www.youtube.com/channel/UCgLJXIeAMFDKZnKbjlO8d0A)
+[LinkedIn](https://www.linkedin.com/in/krishna-tank/) | [Twitter](https://twitter.com/krishi_17) | [Medium](https://medium.com/@krishtank17) | [Youtube](https://www.youtube.com/channel/UCgLJXIeAMFDKZnKbjlO8d0A)
 
 
 <!--
