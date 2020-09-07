@@ -1,4 +1,4 @@
-![hello_world](https://www.google.com/search?q=hello+world+gifs&rlz=1C1CHBD_enUS892US892&sxsrf=ALeKk031GQJ_m-7XP35HS0X5N54d1JjwFw:1599447857270&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiA5_nKh9brAhX-GDQIHaARCA4Q_AUoAXoECA0QAw&biw=1280&bih=610&dpr=1.5#imgrc=9BqPcCqnbro-dM.gif) 
+![hello_world](https://www.google.com/search?q=hello+world+gifs&rlz=1C1CHBD_enUS892US892&sxsrf=ALeKk031GQJ_m-7XP35HS0X5N54d1JjwFw:1599447857270&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiA5_nKh9brAhX-GDQIHaARCA4Q_AUoAXoECA0QAw&biw=1280&bih=610&dpr=1.5#imgrc=9BqPcCqnbro-dM) 
 
 ### I am Krishna Tank, a Software Developer and ML enthusiast! 
 
