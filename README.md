@@ -1,4 +1,5 @@
-### Hello World! I am Krishna Tank, a Software Developer and ML enthusiast! 
+### Hello World, This is Krishna Tank! 
+### I'm a Software Developer. I love Python and Machine Learning!
 
 ![hello_world_1](https://user-images.githubusercontent.com/45872617/88958242-2eb3eb00-d26e-11ea-8d6d-f596120815ed.gif) 
 
