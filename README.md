@@ -7,7 +7,7 @@
 Graduate student at California State University, East Bay pursuing MS in Computer Science and will be graduating next year in May 2021. I believe that the best code is one that is not written! Passionate about coding and solving real-life problems and bringing a change in the world through Computer Science. My favorite/go-to language and strength is Python! Kindly checkout skills sections to know more about my skills. My dream work environment would be one where I am thriving, contributing and making a positive difference in people's lives. My goal is to be essential to the world, and convert my passion to work.
 
 ### Technology domain I work on...
-Software Development | Software Engineering | Python Developement | Machine Learning | Artificial Intelligence
+Software Development/Engineering | Python Web Developement | Machine Learning | Artificial Intelligence
 
 [LinkedIn](https://www.linkedin.com/in/krishna-tank/) | [Twitter](https://twitter.com/krishi_17) | [Medium](https://medium.com/@krishtank17) | [Youtube](https://www.youtube.com/channel/UCgLJXIeAMFDKZnKbjlO8d0A)
 
