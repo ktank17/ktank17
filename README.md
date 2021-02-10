@@ -4,7 +4,7 @@
 ![hello_world_1](https://user-images.githubusercontent.com/45872617/88958242-2eb3eb00-d26e-11ea-8d6d-f596120815ed.gif) 
 
 ### About Me 
-Graduate student at California State University, East Bay pursuing MS in Computer Science and will be graduating next year in May 2021. I believe that the best code is one that is not written! Passionate about coding and solving real-life problems and bringing a change in the world through Computer Science. My favorite/go-to language and strength is Python! Kindly checkout skills sections to know more about my skills. My dream work environment would be one where I am thriving, contributing and making a positive difference in people's lives. My goal is to be essential to the world, and convert my passion to work.
+Graduate student at California State University, East Bay pursuing MS in Computer Science and will be graduating this year in May 2021. I believe that the best code is one that is not written! Passionate about coding and solving real-life problems and bringing a change in the world through Computer Science. My favorite/go-to language and strength is Python! Kindly checkout skills sections on my linkedIn to know more about my skills. My dream work environment would be one where I am thriving, contributing and making a positive difference in people's lives. My goal is to be essential to the world, and convert my passion to work.
 
 ### Technology domain I work on...
 Software Development/Engineering | Python Web Developement | Machine Learning | Artificial Intelligence
