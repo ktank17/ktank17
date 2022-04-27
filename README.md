@@ -1,10 +1,10 @@
 # Hello World, I'm Krishna! 
-### I'm gonna join Amazon as SDE1 from June 2021! Currently pursuing MS in CS from Cal State East Bay!
+### Working as SDE @Amazon.
 
 ![hello_world_1](https://user-images.githubusercontent.com/45872617/88958242-2eb3eb00-d26e-11ea-8d6d-f596120815ed.gif) 
 
 ### About Me 
-Graduate student at California State University, East Bay pursuing MS in Computer Science and will be graduating in May 2021 and will be joining Amazon as Software Development Engineer in Seattle. I believe that the best code is one that is not written! Passionate about coding and solving real-life problems and bringing a change in the world through Computer Science. My favorite/go-to language and strength is Python! Kindly checkout skills sections on my linkedIn to know more about my skills.
+Graduated from California State University, East Bay pursuing MS in Computer Science and will be graduating in May 2021 and will be joining Amazon as Software Development Engineer in Seattle. I believe that the best code is one that is not written! Passionate about coding and solving real-life problems and bringing a change in the world through Computer Science. My favorite/go-to language and strength is Python! Kindly checkout skills sections on my linkedIn to know more about my skills.
 
 ### Technology domain I work on...
 Software Development Engineering | Python Web Developement | Machine Learning | Artificial Intelligence
